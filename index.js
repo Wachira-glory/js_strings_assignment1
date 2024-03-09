@@ -26,4 +26,6 @@ let text3 = "UndERneath"
 let text4 = "A wonderful world"
 console.log(text1.toUpperCase());
 console.log(text2.toLowerCase());
-console.log(text3.toLowerCase())
+console.log(text3.toLowerCase());
+console.log(text4.toLowerCase());
+
